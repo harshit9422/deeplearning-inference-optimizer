@@ -27,7 +27,7 @@ This project showcases your understanding of:
 ## 📁 Project Structure
 
 DeepLearning_Inference_Optimizer/
-│
+
 ├── src/
 │ ├── run_benchmark.py # Main script for benchmarking
 │ └── matrix_perf_plot.png # Output plot of benchmark timings
