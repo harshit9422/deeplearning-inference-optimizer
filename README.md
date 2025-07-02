@@ -24,24 +24,6 @@ This project showcases your understanding of:
 - Efficient matrix computation fundamentals
 - Setting up and pushing code using Git + GitHub
 
-DeepLearning-Inference-Optimizer/
-│
-├── benchmark/
-│   ├── __init__.py
-│   ├── matrix_benchmark.py     # Core logic to benchmark matrix multiplication
-│   └── utils.py                # Helper functions (e.g., timer, matrix generator)
-│
-├── plots/
-│   └── performance_plot.png    # Output graph visualizing timing vs matrix size
-│
-├── tests/
-│   └── test_benchmark.py       # Unit tests for benchmarking functions
-│
-├── main.py                     # Script to run benchmarking and generate plots
-├── requirements.txt            # List of dependencies (NumPy, Matplotlib)
-├── README.md                   # Project overview, usage, and explanation
-├── LICENSE                     # MIT or appropriate open-source license
-└── .gitignore                  # To ignore __pycache__, .ipynb_checkpoints, etc.
 
 
 
