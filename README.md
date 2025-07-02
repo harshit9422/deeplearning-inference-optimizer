@@ -2,20 +2,20 @@
 
 A lightweight Python benchmarking tool to visualize the performance of matrix operations at scale — inspired by GPU memory access patterns. Built to simulate how matrix size impacts computational latency, this tool provides an intuitive plot for performance analysis.
 
-## 🚀 Features
+##  Features
 
 - Benchmarks matrix multiplication for various sizes (128×128 to 1024×1024)
 - Visualizes timing performance with Matplotlib
 - Simulates concepts like GPU-style tile/block access (CPU only)
 - Minimal setup, fast execution, beginner-friendly
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3
 - NumPy
 - Matplotlib
 
-## 📊 What It Demonstrates
+##  What It Demonstrates
 
 This project showcases your understanding of:
 
@@ -24,8 +24,13 @@ This project showcases your understanding of:
 - Efficient matrix computation fundamentals
 - Setting up and pushing code using Git + GitHub
 
+## Project Structure
 
-
+DeepLearning_Inference_Optimizer/
+├── src/
+│   ├── run_benchmark.py        # Main script for benchmarking matrix operations
+├── matrix_perf_plot.png        # Output performance visualization
+├── README.md                   # Project overview and documentation
 
 ## 🧪 How to Run
 
